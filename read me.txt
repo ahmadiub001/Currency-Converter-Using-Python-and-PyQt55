@@ -1,0 +1,10 @@
+Hello!
+to run this code 
+1)Install python on your computer
+2)install PyQt5 and PyQt5 tools using pip 
+[pip install PyQt5]
+[pip install PyQt5-tools] put there lines in command window
+place app.py file and test.ui file in a same folder
+3)then run app.py (Python file) from any editor like(PYCHARM,CISUAL STUDIO CODE etc)
+
+
